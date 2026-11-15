@@ -7,7 +7,7 @@ Bài tập lớn môn **Trí tuệ nhân tạo (INT3401_10)** – **Nhóm 12**
 | Nguyễn Sơn Tùng | 24023087 |
 | Cao Thị Phương Anh | 24022935 |
 
-Dự án cài đặt và đánh giá các thuật toán tìm kiếm và ra quyết định trên bộ khung Pacman của UC Berkeley CS188 (<https://ai.berkeley.edu>).
+Dự án cài đặt và đánh giá các thuật toán tìm kiếm và ra quyết định trên bộ khung Pacman của UC Berkeley CS188 .
 
 - **Project 1 – Tìm kiếm:** DFS, BFS, UCS, A\*, bài toán bốn góc, heuristic ăn hết thức ăn, tìm thức ăn gần nhất. Autograder: **26/25**.
 - **Project 2 – Đối kháng:** ReflexAgent, Minimax, Alpha-Beta, Expectimax, hàm đánh giá tốt hơn. Autograder: **25/25**.
@@ -135,6 +135,3 @@ python pacman.py -p ExpectimaxAgent -l smallClassic -a evalFn=better,depth=2 -n 
 1. UC Berkeley CS188 – Introduction to Artificial Intelligence, Pacman projects. <https://ai.berkeley.edu>
 2. S. Russell and P. Norvig, *Artificial Intelligence: A Modern Approach*, 4th ed. Pearson, 2020.
 
-## Repository
-
-GitHub: <https://github.com/TEN-TAI-KHOAN/TEN-REPO> *(thay bằng đường dẫn thật)*
